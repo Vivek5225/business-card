@@ -1,0 +1,40 @@
+body{
+    margin: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logo-img{
+
+    box-shadow: 50px;
+    width: 350px;
+    border: 8px double goldenrod;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card{
+
+    border: 10px solid blue;
+    padding: 20px;
+    display: flex;
+    background-color: lightcyan;
+}
+.yeah{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ok{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.is-that{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
